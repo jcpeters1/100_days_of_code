@@ -10,3 +10,8 @@ It's been just under 6 months since I've finished the U of A Bootcamp in Data An
 * Explore and become familiar with Power BI and Looker.
 
 Other considerations: I'll be comepleting this challenge during the holidays so my wife asked me if I'm really going to be coding on Thanksgiving and Christmas Day.  My answer is yes.  That'll likely be a minimum day and I understand the balance of working, parenting and other aspects of life.  While I don't plan on missing any days - life comes up and I'll be following the original creator.  No more than 1 day every two weeks and those days get tacked on to the end.  Since I work later in the day my plan is to code minimum 6-7am each day before the kiddo wakes up.   
+
+## Day 1
+To get started I downloaded an election dataset from Kaggle to play around with.  As I was looking at the data I was surprised with how many different people got presidential votes.  We usually hear about the top two (mayyyybbbee three) and that's that.  I started to look at how many counties they were on the ballot and how many votes they recieved.  Mind definitely got working on how we could use data to make minority candidates more visible.
+
+In terms of coding - oh my goodness I'm rusty.  It was almost embarassing the thought that went into very basic things.  All the more reason that I wanted to do this.  Things that I would fly through in a minute or two required me sitting back and thinking about what I wanted to do and even looking back at my old work where I did the same thing. By the end I did feel it coming back and my mind was getting in the groove.  I'm looking forward to seeing how different this is in 10 days and even at 30.
