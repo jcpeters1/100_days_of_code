@@ -18,3 +18,6 @@ In terms of coding - oh my goodness I'm rusty.  It was almost embarassing the th
 
 ## Day 2
 Updated visualizatoin with a linear regression and looked more into the states that offer more than 3 Presidential candidates on the ballot.  Today definitely felt more relaxed than yesterday.  Definitely hopped in quicker today but still back into the swing of things.  With the limited amount of data I'll likely move on from this tomorrow.
+
+## Day 3
+Really glad that I'm doing this challenge.  Not only am I getting good coding time in each and every day, I'm able to work through issues that would be more relevent in the workplace.  Today I worked on combining and cleaning about 275 csv files with the knowledge another file would be added each day and would need to be cleaned in the same manner.  Most of my work to date has been smaller in scale and I could get away with doing a few things by hand.  Not having a project deadline has been nice to explore different ways to solve the problem and ultimately make me better.
