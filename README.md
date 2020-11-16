@@ -21,3 +21,6 @@ Updated visualizatoin with a linear regression and looked more into the states t
 
 ## Day 3
 Really glad that I'm doing this challenge.  Not only am I getting good coding time in each and every day, I'm able to work through issues that would be more relevent in the workplace.  Today I worked on combining and cleaning about 275 csv files with the knowledge another file would be added each day and would need to be cleaned in the same manner.  Most of my work to date has been smaller in scale and I could get away with doing a few things by hand.  Not having a project deadline has been nice to explore different ways to solve the problem and ultimately make me better.
+
+## Day 4
+Continued to clean up data from yesterday.  Running into some issues due to scale as things are taking a long time to run.  My original thought on uploaded to db then querying might be the best bet.  Also had an idea on a local COVID-19 dashboard which would show visualizations specific to a persons area.  So far I see it for states but not as much in cities.
