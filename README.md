@@ -24,3 +24,8 @@ Really glad that I'm doing this challenge.  Not only am I getting good coding ti
 
 ## Day 4
 Continued to clean up data from yesterday.  Running into some issues due to scale as things are taking a long time to run.  My original thought on uploaded to db then querying might be the best bet.  Also had an idea on a local COVID-19 dashboard which would show visualizations specific to a persons area.  So far I see it for states but not as much in cities.
+
+## Day 5
+Feel like I'm kind of pinging all over the place with my work. Part of that I feel like it taking what the data gives me.  I started just wanted to clean and work on some files and I've been thinking of a bunch of different ideas as I work.  I've following some of those tangents and abandoned others.  At the end of the day I'm happy about the process and the work that's being done.  I'm not sure what my output is as of this moment but that also wasn't the point of doing this.
+
+Today I read in a couple new CSVs and started cleaning them to compare COVID cases with local mobility data from Google.  I've done this a little in the past but I thoguht it would be interesting to revisit on a local level with more data.  I also need to loop through the data to make a new calculation which is more good practice.  Overall, I'm using those pieces that I wanted hone.
