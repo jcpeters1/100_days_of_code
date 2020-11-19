@@ -32,3 +32,7 @@ Today I read in a couple new CSVs and started cleaning them to compare COVID cas
 
 ## Day 6
 Finished up the loop and visualziations I started yesterday.  Comparing daily counts of new cases to Google mobility data (places like retail people visit and if it is more or less than baseline which is before COVID).  One of the ways we've dealt with this is staying at home.  Just looking to see the representation of new cases versus people getting out to certain types of businesses.  Going to do a couple more tomorrow before breaking them out.  Exploring these types of questions and real life situations is what makes data so fun. 
+
+
+## Day 7
+It's been one week of coding.  Definitely feel like a lot has come back in a short period of time.  Jumped into Tableau today to check out the retail versus new case in Maricopa County.  You can see they definitely have an effect on on another but if it's weak.  Seems like there's a lot of other factors.  It's too bad Google doesn't provide more categories in data.  
