@@ -36,3 +36,6 @@ Finished up the loop and visualziations I started yesterday.  Comparing daily co
 
 ## Day 7
 It's been one week of coding.  Definitely feel like a lot has come back in a short period of time.  Jumped into Tableau today to check out the retail versus new case in Maricopa County.  You can see they definitely have an effect on on another but if it's weak.  Seems like there's a lot of other factors.  It's too bad Google doesn't provide more categories in data.  
+
+## Day 8
+Updated and cleaned up the x axis of my plots.  Took some time to look back at some old work and big data using cloud db.  Tempting to want to branch back out of what I set out to do and find more 'exciting' projects.  Gonna stick to hammering the basics of ETL along with Looker and PowerBI.  Tomorrow may be an day to explore one of the new tools!
