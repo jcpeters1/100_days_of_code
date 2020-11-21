@@ -39,3 +39,6 @@ It's been one week of coding.  Definitely feel like a lot has come back in a sho
 
 ## Day 8
 Updated and cleaned up the x axis of my plots.  Took some time to look back at some old work and big data using cloud db.  Tempting to want to branch back out of what I set out to do and find more 'exciting' projects.  Gonna stick to hammering the basics of ETL along with Looker and PowerBI.  Tomorrow may be an day to explore one of the new tools!
+
+## Day 9
+Worked on some SQL queries today.  Nothing too exciting to write about today, just some solid practice.
