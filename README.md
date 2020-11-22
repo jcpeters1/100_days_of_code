@@ -42,3 +42,6 @@ Updated and cleaned up the x axis of my plots.  Took some time to look back at s
 
 ## Day 9
 Worked on some SQL queries today.  Nothing too exciting to write about today, just some solid practice.
+
+## Day 10
+Not much for actual coding today.  Looking into some different opensource databases for the COVID data Brandon and I will be putting together.  Spent the morning jotting down and outline for what will need to happen in the code.  Since there are a lot of CSVs and are updated with new ones daily, I'm thinking there's a way through Pandas to make each CSV a table in SQLite and if it already exists to ignore and if not, to append.  Changes the way we would call the data later on so thinking it's important to come up with this outline first before wasting hours to find out that something isn't how we want later on.  Today was filled with interruptions so I'll check back in tomorrow morning to see what I may have missed!
