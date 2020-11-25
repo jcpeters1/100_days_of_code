@@ -48,3 +48,6 @@ Not much for actual coding today.  Looking into some different opensource databa
 
 ## Day 11
 More SQL practice in addition to looking at the map of COVID data from the other day.  Starting to to notice the mental energy this takes in addition to the normal day-to-day activities.  Takes more than one would think!
+
+## Day 12
+Continued to look at the COVID data and prepare it to be used.  I'm getting paralysis by analysis I can tell today.  I've went back and forth twice.  While ruling out some other options haven't made alot of progress forward.
