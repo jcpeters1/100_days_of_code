@@ -54,3 +54,6 @@ Continued to look at the COVID data and prepare it to be used.  I'm getting para
 
 ## Day 13
 Practiced some advanced selects on hacerrank today using SQL.
+
+## Day 14
+More cleaning of multiple CSV files - combining and picking which ones to include.
