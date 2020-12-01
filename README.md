@@ -57,3 +57,6 @@ Practiced some advanced selects on hacerrank today using SQL.
 
 ## Day 14
 More cleaning of multiple CSV files - combining and picking which ones to include.
+
+## Day 15
+SQL practice on hackerrank.com.  Doing advanced select statments.  Learned some new tools and had good practice with case statements.
