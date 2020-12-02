@@ -60,3 +60,6 @@ More cleaning of multiple CSV files - combining and picking which ones to includ
 
 ## Day 15
 SQL practice on hackerrank.com.  Doing advanced select statments.  Learned some new tools and had good practice with case statements.
+
+## Day 16
+More SQL practice today.  Still doing advanced select statements.  Used more case statement examples which was good practice.
