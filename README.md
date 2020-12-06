@@ -63,3 +63,6 @@ SQL practice on hackerrank.com.  Doing advanced select statments.  Learned some 
 
 ## Day 16
 More SQL practice today.  Still doing advanced select statements.  Used more case statement examples which was good practice.
+
+## Day 17
+SQL, SQL, SQL.  Today was more aggreation than select.
