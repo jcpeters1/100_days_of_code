@@ -66,3 +66,6 @@ More SQL practice today.  Still doing advanced select statements.  Used more cas
 
 ## Day 17
 SQL, SQL, SQL.  Today was more aggreation than select.
+
+## Day 18
+More aggregration SQL queries.  Today's were a little easier than usual.  Not sure how they get selected but it was nice to fly through a few and take it easy on my brain.
